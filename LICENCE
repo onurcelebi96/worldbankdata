@@ -1,0 +1,17 @@
+
+---
+
+### 4. `.gitignore` Dosyası
+
+GitHub projesini oluştururken `.gitignore` dosyasını Python olarak seçtiyseniz, gerekli dosyalar zaten eklenecektir. `.gitignore` dosyası, gereksiz dosyaların (örneğin, `__pycache__` klasörü, sanal ortam dosyaları) depoya eklenmesini önler.
+
+---
+
+### 5. Lisans
+
+MIT Lisansı seçilmiş ve açık kaynak opsiyonu belirtilmiştir.
+
+Lisans içeriği:
+
+#### LICENSE
+
